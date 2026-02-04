@@ -81,7 +81,7 @@ God Mode reduces AI agent costs by **90-99%** and latency by **4.4×** using asy
 
 ```bash
 # Clone repository
-git clone https://github.com/vectorlabs/god-mode.git
+git clone https://github.com/vectorlabs-research/god-mode.git
 cd god-mode
 
 # Install dependencies
@@ -263,8 +263,8 @@ If you use God Mode in your research, please cite:
 
 - **Paper:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
 - **Vector Labs:** [https://tony.mecp.io](https://tony.mecp.io)
-- **Discussion:** [GitHub Discussions](https://github.com/vectorlabs/god-mode/discussions)
-- **Issues:** [GitHub Issues](https://github.com/vectorlabs/god-mode/issues)
+- **Discussion:** [GitHub Discussions](https://github.com/vectorlabs-research/god-mode/discussions)
+- **Issues:** [GitHub Issues](https://github.com/vectorlabs-research/god-mode/issues)
 
 ---
 
@@ -286,4 +286,4 @@ This work was developed as part of Vector Labs' research into planetary-scale AI
 Vector Labs  
 tony@tabula.foundation
 
-For research inquiries, please open a [GitHub Discussion](https://github.com/vectorlabs/god-mode/discussions).
+For research inquiries, please open a [GitHub Discussion](https://github.com/vectorlabs-research/god-mode/discussions).
